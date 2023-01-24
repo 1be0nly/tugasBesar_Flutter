@@ -1,4 +1,3 @@
 # tugasBesar_Flutter
 
-#sourceCode branch untuk sourceCode
-#apiServices branch untuk database + API
+Ini adalah sourceCode branch sebagai tempat menyimpan source code
